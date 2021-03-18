@@ -1,0 +1,2 @@
+user
+{"id":1,"username":"pulkit","email":"pulkit.kulshrestha@gmail.com","roles":["ROLE_USER"],"enabled":true,"tokenType":"Bearer","accessToken":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJwdWxraXQiLCJpYXQiOjE2MTU4MjkxMjYsImV4cCI6MTYxNTkxNTUyNn0.Cim1hrcyO7j0jrskVCnW3yLTITHwW6TmX2KMWYrfrDjGveQ_b1IghevnuB2tMHgfXmLciAe5wC_9V92H2M6Ylg"}
